@@ -48,17 +48,25 @@ Maintenance – Provide updates, bug fixes, and enhancements.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
-|                   |  waterfall Methodology                         |  Agile Methodology                              |
-|Approach	          |  Linear and sequential.	                       |  Iterative and incremental.                     |
-|Flexibility	      |  Rigid, with fixed requirements.               |	Adaptable to changing needs.                   |
-|Phases	            |  Each phase completed before the next begins.	 | Development and testing occur in cycles.        |
-|Feedback	          |  Limited, received at the end.	               | Continuous feedback from users.                 |
-|Best For           | Large Scale Projects with clear requirements   | Dynamic projects eg. apps                       |
+Waterfall Methodology:
 
-Example of where each of the methodologies is used:
+Approach: Linear and sequential.
+Flexibility: Rigid, with fixed requirements.
+Phases: Each phase is completed before the next begins.
+Feedback: Limited, received only at the end.
+Best For: Large-scale projects with clear requirements.
 
-Waterfall: Government contracts, banking software (fixed compliance requirements).
-Agile: E-commerce websites, mobile applications (frequent updates)
+Examples: Government contracts, banking software (fixed compliance requirements).
+
+Agile Methodology:
+
+Approach: Iterative and incremental.
+Flexibility: Adaptable to changing needs.
+Phases: Development and testing occur in cycles.
+Feedback: Continuous feedback from users.
+Best For: Dynamic projects requiring frequent updates.
+
+Examples: E-commerce websites, mobile applications.
 
 ### Question 5
 
